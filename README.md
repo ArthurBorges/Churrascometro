@@ -1,6 +1,6 @@
 # Churrascometro
 
-Projeto de calculo de consumo em um churrasco:
+Projeto de cálculo de consumo em um churrasco:
 
 *Carne - 400gr por pessoa   
          >6horas: 650gr por pessoa
