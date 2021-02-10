@@ -1,9 +1,3 @@
-//Carne - 400gr por pessoa   >6horas: 650gr
-//Cerveja - 1200ml por pessoa >6horas: 2000ml
-//Refrigerante/agua - 1000ml
-
-//criancas valem por 0.5
-
 let inputAdultos = document.getElementById("adultos");
 let inputCriancas = document.getElementById("criancas");
 let inputDuracao = document.getElementById("duracao");
