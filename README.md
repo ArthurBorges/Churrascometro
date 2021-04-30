@@ -1,5 +1,7 @@
 # Churrascometro
 
+https://arthurborges.github.io/Churrascometro/
+
 Projeto de cálculo de consumo em um churrasco:
 
 *Carne - 400gr por pessoa   
